@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-    background-color: black;
+    background-color: #27374D;
 }
 
 a {
@@ -28,14 +28,14 @@ h1 {
     color: white;
     margin-top: -60px;
     margin-left: 80px;
-    font-size: 'roboto';
+    font-family: 'roboto';
 }
 
 .intro {
     color: white;
     width: 350px;
     padding: 25px;
-    background-color: rgb(193, 193, 193);
+    background-color: #526D82;
     font-family: 'roboto';
 }
 
@@ -47,7 +47,10 @@ h1 {
 
 .job {
     color: white;
-    font-size: 'roboto';
+    width: 450px;
+    padding: 25px;
+    background-color: #526D82;
+    font-family: 'roboto';
 }
 
 button {

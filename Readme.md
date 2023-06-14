@@ -23,8 +23,6 @@
 </html>
 ```
 
-![preview](assets/img/Screen%20Shot%202023-06-13%20at%2014.12.17.png)
-
 ![Meme](https://i.pinimg.com/originals/bf/e0/00/bfe000dbaeaa4311405c782762315d4c.jpg)
 
 
