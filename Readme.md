@@ -1,5 +1,7 @@
 # Intermediate Assignment 1
 
+[![my website](galihwicaak.netlify.app)]
+
 **Basic Website**
 - index.html
 - styles.css
